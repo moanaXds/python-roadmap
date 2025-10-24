@@ -1,4 +1,4 @@
-tkinter
+tkinter Basics
 -------
-Turtle
+Turtle Basics
 -------
